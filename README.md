@@ -25,5 +25,12 @@ Database: david
  * Secure with spring security
  * Acceptance
  
+## Example Post
  
- 
+ {
+ 	"request_time":"2019-12-06T11:58:08.398Z",
+ 	"user_id":2,
+ 	"request_body":"{\"data\":\"json\"}",
+ 	"url":"http://www.noel.com",
+ 	"http_status":200
+ }
