@@ -11,6 +11,7 @@ Host: 35.204.113.102
 Username: root
 Password: Syinterview123
 Port: 3306
+Database: david
 ```
 
 ## Requirements
